@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables (lokaal)
+.env
+.env.local
+
+# Vercel
+.vercel
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
